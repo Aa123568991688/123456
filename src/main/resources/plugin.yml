@@ -1,0 +1,7 @@
+name: jmj
+version: '${project.version}'
+main: me.wenwen.jmj.Main
+api-version: 1.21
+description: 一个由 wenwen 开发的 Spigot 插件
+authors: [ wenwen ]
+website: https://github.com/wenwen/jmj
